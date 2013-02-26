@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Examen formatif
 ===============
 
@@ -23,3 +24,9 @@ Requis
 ------
 
 * EiffelStudio 7.2 est nécessaire pour compiler ce projet
+=======
+Formatif_DC1
+============
+
+Formatif 1 du MAITRE
+>>>>>>> 8021298248f357d64e3424795279c76e24b3d38d
